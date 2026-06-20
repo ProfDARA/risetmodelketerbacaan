@@ -1,0 +1,39 @@
+🔍 Level Dasar (Data Quality & Distribusi)
+Jumlah dokumen, kalimat, kata → cek ukuran korpus.
+
+Distribusi panjang kalimat/dokumen (histogram jumlah kata per kalimat).
+
+Frekuensi kata → top-N kata paling sering muncul (word frequency).
+
+Stopwords vs non-stopwords → proporsi kata bermakna.
+
+Vocabulary size → berapa banyak kata unik.
+
+📊 Level Menengah (Linguistic Features)
+POS tagging distribution → berapa persen noun, verb, adjective, dll.
+
+N-gram analysis → bigram/trigram paling sering muncul.
+
+Lexical diversity → rasio kata unik terhadap total kata.
+
+Syntactic complexity → panjang rata-rata parse tree, dependency depth.
+
+Named Entity Recognition (NER) → distribusi entitas (orang, organisasi, lokasi).
+
+🧪 Level Lanjut (Readability & Semantics)
+Readability metrics → misalnya Flesch Reading Ease, atau formula lokal (untuk bahasa Indonesia bisa adaptasi).
+
+Word embeddings visualization → PCA/TSNE untuk melihat clustering kata.
+
+Topic modeling (LDA, NMF) → eksplorasi tema dalam korpus.
+
+Sentiment distribution (jika ada label).
+
+Semantic similarity → distribusi cosine similarity antar kalimat.
+
+⚙️ Praktis untuk Penelitian
+Data imbalance check → apakah label (misalnya kelas sentimen) seimbang.
+
+Noise detection → kalimat duplikat, typo, karakter asing.
+
+Coverage check → apakah kosakata sesuai domain (misalnya akademik vs percakapan).

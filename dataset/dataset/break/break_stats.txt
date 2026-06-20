@@ -1,0 +1,212 @@
+==== BREAK ANALYSIS ====
+
+Rows: 7,621
+Blocks: 43,296
+
+Headers: 3,737
+Keywords: 3,353
+MetadataPattern: 1,366
+MetadataMatch: 5,786
+
+===== TOP 200 BLOCKS =====
+
+[2587] abstrak
+[1065] tidak tersedia deskripsi
+[558] abstract
+[538] intisari
+[112] abstraksi
+[101] 2. hipotesa minor
+[94] 1. hipotesa mayor
+[61] 1. hipotesa mayor.
+[59] 2. hipotesa minor.
+[54] ringkasan
+[39] hipotesa yang diajukan adalah:
+[35] hipotesa mayor:
+[33] hipotesa minor:
+[33] jurusan ilmu administrasi negara, fakultas ilmu sosial dan ilmu politik, universitas tidar
+[31] universitas tidar
+[30] 2. hipotesa minor:
+[27] 1. hipotesa mayor:
+[27] -
+[26] jurusan ilmu administrasi negara fakultas ilmu sosial dan ilmu politik universitas tidar
+[20] jurusan ilmu komunikasi, fakultas ilmu sosial dan ilmu politik universitas tidar
+[19] a. hipotesa mayor
+[19] tidak ada abstrak
+[17] adapun hasil analisa statistiknya adalah:
+[16] b. hipotesa minor
+[16] dapat diterima kebenarannya.
+[14] adapun hasil analisa statistiknya adalah sebagai berikut:
+[13] hipotesa yang diajukan dalam penelitian ini adalah:
+[13] jurusan ilmu administrasi negara, fakultas ilmu sosial dan ilmu politik, universitas tidar.
+[13] jurusan ilmu administrasi negara, fakultas ilmu sosial dan ilmu politik universitas tidar
+[11] atau dengan kata lain dapat dikatakan bahwa pengajuan hipotesa yang berbunyi:
+[10] ...
+[9] abstrac
+[9] hasil penelitian adalah sebagai berikut:
+[9] (2) hipotesa minor
+[9] hasil pengujian hipotesa adalah:
+[8] hipotesa yang digunakan adalah:
+[8] kedua hipotesa tersebut setelah diuji menunjukkan signifikan atau mempunyai pengaruh.
+[8] fakultas ilmu sosial dan ilmu politik
+[8] 1. korelasi product moment
+[7] a. hipotesa mayor:
+[7] b. hipotesa minor:
+[7] (1) hipotesa mayor
+[7] tujuan penelitian ini adalah untuk mengetahui kemungkinan adanya hubungan antara pengawasan dan pembinaan dengan prestasi kerja.
+[7] hipotesa dalam penelitian ini adalah:
+[7] suatu kenyataan bahwa untuk mewujudkan tujuan organisasi, sangat diperlukan adanya tingkat efektivitas kerja pegawai yang tinggi. akan tetapi sebaliknya dengan pegawai yang memiliki tingkat efektivitas kerja yang rendah akan sukar untuk mencapai hasil-hasil yang baik.
+[7] 2. korelasi partial
+[6] summary
+[6] pembangunan nasional dilaksanakan dalam rangka pembangunan manusia indonesia seutuhnya dan pembangunan seluruh masyarakat indonesia. pembangunan diharapkan merata dan bukan hanya dinikmati oleh segolongan atau sekelompok masyarakat tertentu saja.
+[6] magelang.
+[6] jurusan ilmu komunikasi, fakultas ilmu sosial dan ilmu politik
+[6] program studi ilmu komunikasi, fakultas ilmu sosial dan ilmu politik universitas tidar
+[6] jurusan ilmu administrasi negara
+[6] program studi ilmu administrasi negara, fakultas ilmu sosial dan ilmu politik, universitas tidar
+[6] prestasi kerja dapat ditingkatkan melalui banyak faktor, beberapa faktor yang diduga dapat meningkatkan prestasi kerja adalah pengawasan dan pembinaan pegawai.
+[6] b. hipotesa minor.
+[6] hipotesa minor
+[6] program studi ilmu administrasi negara fakultas ilmu sosial dan ilmu politik universitas tidar
+[6] 3
+[6] proyek konstruksi sering terkendala keterlambatan dan pemborosan biaya akibat
+[6] pengelolaan material tulangan yang kurang efisien. untuk mengatasi permasalahan tersebut,
+[6] diperlukan sistem pengadaan material yang terencana dan terkoordinasi dengan baik sehingga alur
+[6] distribusi material dapat berjalan lancar dan tepat sasaran. metode just in time (jit) menawarkan
+[6] solusi melalui sistem pengadaan material yang tepat waktu, tepat jumlah, dan tepat tempat.
+[6] penelitian ini bertujuan menganalisis faktor pendukung dan penghambat penerapan jit pada
+[6] material tulangan, serta mengevaluasi kesiapan dan pemahaman tenaga kerja pada proyek
+[6] konstruksi.
+[6] penelitian ini menggunakan pendekatan kuantitatif deskriptif dengan metode pengumpulan
+[6] data melalui kuesioner disebarkan kepada 30 responden berskala likert, yang selanjutnya diolah
+[6] secara kuantitatif. data yang terkumpul diuji menggunakan uji validitas dan reliabilitas, kemudian
+[6] dianalisis menggunakan metode simple additive weighting (saw).
+[6] hasil penelitian menunjukkan seluruh faktor pendukung berada pada kategori sangat
+[6] berpengaruh, dengan nilai tertinggi 0,9200 pada keterlibatan pekerja lapangan yang
+[6] mempertahankan kualitas material, produktif, dan terampil berkoordinasi (x2) dan nilai terendah
+[6] 0,8267 pada mampu mengurangi kemacetan lalu lintas ditempat kerja (x5). faktor penghambat
+[6] sebagian besar berada pada kategori berpengaruh, terdapat dua faktor yang termasuk dalam kategori
+[6] sangat berpengaruh, yaitu perencanaan kebutuhan material yang kurang akurat dengan nilai 0,813
+[6] serta kurangnya komitmen atau dukungan dari pihak top manajemen dengan nilai 0,807. secara
+[6] keseluruhan, tingkat kesiapan proyek tergolong sangat baik dengan rata-rata nilai saw 0,9211
+[6] dengan kategori sangat berpengaruh.
+[5] abstrack
+[5] tujuan penelitian ini adalah untuk mengetahui pengaruh pendidikan dan latihan serta kepemimpinan terhadap efektivitas organisasi.
+[5] hipotesis yang diajukan adalah sebagai berikut:
+[5] untuk menguji hipotesanya dipergunakan uji hipotesa korelasi product moment, korelasi partial, korelasi majemuk dan koefisien determinasi.
+[5] dari uji hipotesa tersebut diperoleh hasil sebagai berikut:
+[5] ada pengaruh positif antara variabel kepemimpinan dan motivasi terhadap semangat kerja pegawai.
+[5] sumber daya manusia merupakan fokus sentral serta pilar dalam kehidupan bangsa, adalah merupakan tugas mulia bagi setiap insan manusia yang mempunyai kemampuan untuk menyumbangkan apa yang dimilikinya demi kemakmuran dan kesejahteraan bagi masyarakat tanpa memandang suku, agama, dan ras serta golongan. sebagai insan yang beradab adalah merupakan suatu kewajiban untuk menyumbangkan potensi yang dimilikinya. potensi tersebut dapat dimiliki melalui proses yang panjang baik pelatihan, pendidikan for
+[5] ada hubungan antara keadaan sosial ekonomi dan motivasi dengan produktivitas kerja pegawai
+[5] dalam penelitian ini diambil sampel sebanyak 30 responden, pengumpulan datanya diperoleh dengan menggunakan teknik observasi, wawancara, kuesioner dan dokumentasi. sumber datanya berasal dari sumber data primer dan didukung sumber data sekunder. sedang analisa datanya digunakan analisa data kuantitatif dan analisa data kualitatif. adapun untuk menguji hipotesa digunakan teknik korelasi product moment, korelasi partial, korelasi ganda/majemuk dan koefisien determinasi, hasil analisanya adalah:
+[5] disiplin kerja bisa tercapai bilamana pimpinan dalam mendelegasikan wewenang sesuai dengan kemampuan karyawan. dalam pendelegasian wewenang dapat diperhatikan dengan melihat adanya wewenang yang diberikan oleh pimpinan, sehingga jangan sampai terjadi adanya persimpangan antara tujuan pribadi dengan tujuan organisasi yang menyebabkan organisasi mengalami kemunduran.
+[5] pegawai.
+[5] jurusan ilmu komunikasi, fakultas ilmu sosial dan ilmu politik, universitas tidar
+[5] skripsi.
+[4] dalam rangka penyelenggaraan pemerintahan, pelayanan kepada masyarakat dan pelaksanaan pembangunan maka pemerintah pada hakekatnya mengemban dua fungsi yaitu fungsi distribusi yang meliputi distribusi pendapatan dan kekayaan masyarakat serta pemerataan pembangunan. fungsi yang kedua adalah fungsi stabilisasi yang meliputi diantaranya stabilisasi sumber-sumber ekonomi dalam bentuk barang dan jasa serta pelayanan masyarakat.
+[4] di dalam mendukung penyelenggaraan otonomi daerah diperlukan kewenangan di daerah yang diujudkan dengan pembagian dan pemanfaatan sumber dana nasional yang berkeadilan sosial serta perimbangan keuangan pemerintah daerah dan pemerintah pusat yang dilaksanakan atas dasar asas desentralisasi, dekonsentrasi dan tugas pembantuan.
+[4] penelitian ini memberikan hasil sebagai berikut:
+[4] the result of experiment showed that:
+[4] hipotesis minor:
+[4] produktivitas kerja pegawai adalah merupakan suatu tolok ukur dari organisasi, baik organisasi sosial, swasta maupun pemerintah. keberhasilan tersebut tidak lepas dari pengawasan yang dilakukan oleh pimpinan baik langsung maupun tidak langsung, tujuannya tidak lain supaya dapat meluruskan kembali tujuan organisasi apabila baik dalam perencanaan, pelaksanaan maupun evaluasi dari program kerja. pengawasan bukan saja berarti memata-matai pegawai tetapi juga bersifat pengayoman maupun pemberian petu
+[4] kerja pegawai
+[4] ada pengaruh antara kepemimpinan dan spesialisasi kerja terhadap disiplin kerja pegawai.
+[4] 2. ada pengaruh antara spesialisasi kerja terhadap disiplin pegawai.
+[4] dalam kaitan inilah skripsi ini berusaha mengungkap permasalahan yang ada, yaitu apakah ada pengaruh antara variabel kepemimpinan dan motivasi terhadap semangat kerja pegawai, dengan pengajuan hipotesa sebagai berikut:
+[4] yang signifikan.
+[4] 1)program studi akuakultur, fakultas pertanian, universitas tidar
+[4] salah satu tujuan organisasi adalah mendapatkan atau memperoleh pegawai untuk bekerja dalam suatu organisasi dimana memerlukan ketelitian dan kejelian khusus. khusus dalam arti memilih pegawai harus didasarkan atas kemampuan dan ketrampilan serta mampu untuk tetap setia terhadap ketentuan-ketentuan yang berlaku dalam suatu organisasi.
+[4] 1. ada hubungan yang signifikan antara motivasi kerja dengan komunikasi kerja pegawai.
+[4] hipotesis yang diajukan adalah:
+[4] dari pengujian hipotesa diperoleh hasil sebagai berikut:
+[4] sedang adanya peningkatan produktivitas ini dapat dilihat dari adanya kinerja dan semangat kerja pegawai yang baik. semangat kerja yang tinggi sebenarnya dapat ditumbuhkan oleh orang lain dalam hal ini adalah pimpinan. yaitu bagaimana pimpinan tersebut dapat memotivasi pegawai sehingga dapat bekerja dengan lebih baik dan menjalin hubungan atau aktivitas berkomunikasi dengan bawahannya.
+[4] dalam kaitan inilah skripsi ini mencoba mengungkapkan permasalahan yang
+[4] hipotesa mayor
+[4] 3. korelasi majemuk
+[4] 4. koefisien determinasi
+[4] program studi ilmu komunikasi fakultas ilmu sosial dan ilmu politik universitas tidar
+[4] vii
+[4] digunakan.
+[4] prestasi kerja dapat didefinisikan sebagai hasil kerja yang dicapai oleh para pegawai baik berupa barang atau jasa dalam rangka melaksanakan tugas yang dibebankan kepadanya pada batas waktu tertentu, era kerja sama dengan sesama pegawai, tanggung jawab atas tugas yang menjadi bebannya, kemampuan untuk dapat diandalkan.
+[4] hipotesa yang diajukan adalah :
+[4] adapun tipe penelitian yang digunakan adalah penelitian deskriptif, tipe penelitian eksploratif, tipe penelitian eksplaniatif untuk menguji hipotesa tentang hubungan antara variabel bebas dan variabel tergantung. sedangkan teknik pengumpulan data dengan menggunakan teknik observasi, wawancara, kuesioner dan dokumentasi.
+[4] 1. kepemimpinan yang baik mempunyai pengaruh terhadap disiplin kerja pegawai, semakin baik kepemimpinan yang dijalankan maka akan semakin tinggi pula disiplin kerja pegawai.
+[4] 2. motivasi bawahan mempunyai pengaruh terhadap disiplin kerja pegawai, semakin baik motivasi maka semakin baik disiplin kerja pegawai.
+[4] dalam penelitian ini untuk memperoleh data-data atau keterangan sehubungan dengan usaha pemecahan menjadi pedoman dengan tujuan penelitian untuk memecahkan masalah-masalah yang dihadapi oleh pegawai, serta untuk mendapatkan data tentang kepemimpinan, motivasi dan disiplin kerja pegawai.
+[4] pengolahan data dan analisa data dengan editing, koding dan tabulasi, dari penelitian yang ada, statistik pengujian hipotesa di dapat sebagai berikut:
+[4] - ada pengaruh positif antara motivasi terhadap semangat kerja pegawai.
+[4] program studi ilmu komunikasi, fakultas ilmu sosial dan ilmu politik, universitas tidar
+[4] dalam bidang pangan beras merupakan hal penting oleh karena itu pemerintah kota ikut serta dalam mengawasi dan mengendalikan harga beras dipasaran. namum isu kenaikan beras eceran di kalangan pedagang jarang kita ketahui. pokok permasalahan penelitian ini adalah membahas mengetahui faktor fenomena kenaikan beras eceran di kalangan pedagang dan mengetahui bagaimana bentuk perlindungan hukum terhadap konsumen atas kenaikan harga beras eceran melebihi aturan het. penulis berharap penelitian ini dap
+[4] penelitian ini merupakan penelitian hukum empiris. bahan hukum sebagai bahan penelitian akan diambil dari bahan kepustakaan yang berupa bahan hukum primer dan bahan hukum sekunder. pengaturan tentang harga eceran tertinggi tertuang dalam peraturan badan pangan nasional nomor 5 tahun 2024 tentang harga eceran tertinggi beras. dalam praktiknya masih banyak pedagang yang tidak mengetahui harga eceran beras sehingga mematok harga tinggi diatas het. namun dalam pelaksanaannya pengawasan dan monitorin
+[4] kata kunci: perlindungan konsumen, het beras, perlindungan hukum
+[3] 3. pengaruh pendidikan dan latihan serta kepemimpinan secara bersama-sama terhadap efektivitas organisasi.
+[3] the result of this experiment:
+[3] the interaction between treatment factors of the fresh weight of nodules and number of the effective nodules.
+[3] are losed
+[3] the treatment are:
+[3] the analysis of variance of the refer to concentration of folliar give no significant effect to seedling height, number leaves, diameter stem, root lenght, fresht weight and dry weight. time application of folliar fertilizer give significant effect to root lenght, fresht weight, dry weight and there is interaction between the treatment toward the number leaves.
+[3] inti sari
+[3] adapun hasil analisis statistiknya adalah sebagai berikut:
+[3] pegawai
+[3] pencapaian tujuan organisasi yang maksimal ini tidak terwujud begitu saja, akan tetapi terdapat usaha-usaha yang mendukungnya, seperti kerja pegawai yang tinggi.
+[3] permasalahan pokok dalam skripsi ini adalah apakah ada pengaruh antara variabel kepemimpinan dan spesialisasi kerja terhadap disiplin kerja pegawai ?
+[3] 1. ada pengaruh antara kepemimpinan terhadap disiplin kerja pegawai.
+[3] kerja pegawai.
+[3] dari analisa yang telah penulis uraikan dalam bab-bab sebelumnya, secara ringkas dapat disimpulkan sebagai berikut:
+[3] tujuan penelitian adalah untuk mengetahui faktor apa yang dominan mempengaruhi disiplin kerja pegawai serta hambatan-hambatan didalam upaya meningkatkan disiplin kerja pegawai.
+[3] ilmu komunikasi, fakultas ilmu sosial dan ilmu politik, universitas tidar
+[3] program studi akuakultur, fakultas pertanian, universitas tidar
+[3] kas dan setara kas secara umum merupakan salah satu aset lancar yang dimiliki oleh perusahaan dengan memegang peranan penting dan salah satu aset yang perlu dilakukan pengawasan, karena paling mudah untuk disalahgunakan sehingga kondisi ini mendesak perusahaan untuk melakukan pengauditan terhadap kewajaran nilai dari suatu kas dan setara kas. penelitian ini bertujuan untuk mengetahui serta menerapkan prosedur pelaksanaan audit kas dan setara kas oleh kap heliantono dan rekan cabang semarang pada
+[3] kata kunci: prosedur audit, kas dan setara kas, perusahaan dagang
+[3] asbtrak
+[3] atau dengan kata lain dapat dikatakan bahwa pengajuan hipotesa yang
+[3] berbunyi:
+[3] untuk itu adanya peningkatan sistem kerja secara proporsional yang diwujudkan dengan peningkatan pendidikan bagi sumber daya manusia yang merata baik di pusat maupun daerah, sehingga pemerataan pendidikan dapat terpenuhi dan pembangunan dapat berjalan dengan lancar.
+[3] dalam organisasi, baik swasta maupun pemerintah, peranan perilaku pegawai yang baik sangat penting artinya untuk menunjang tercapainya tujuan organisasi tersebut. tanpa adanya perilaku pegawai yang baik, maka tujuan organisasi menjadi sulit untuk dicapai.
+[3] dengan melakukan pemilihan pegawai yang lebih efektif, maka diharapkan akan diperoleh pegawai-pegawai yang memiliki perilaku yang baik serta loyal terhadap pimpinan.
+[3] selain hal tersebut di atas, maka hubungan yang baik antara atasan dan bawahan haruslah selalu dijaga. maka jelaslah bahwa dengan adanya pengawasan, kepemimpinan dan spesialisasi akan membawa dampak yang positif terhadap usaha peningkatan perilaku pegawai.
+[3] loyalitas kerja juga dapat tergantung dari sifat-sifat kepemimpinan atau leadership dalam organisasi, oleh karena itu peranan yang paling vital dalam organisasi adalah seorang pemimpin yang dalam memegang kedudukan jabatannya selalu dapat menjadikan contoh yang baik, sehingga dapat menumbuhkan loyalitas bagi semua bawahannya.
+[3] adapun analisa data yang kami gunakan adalah analisa data kuantitatif dan analisa data kualitatif. untuk menguji hipotesanya kami pergunakan uji hipotesa korelasi product moment, korelasi partial, korelasi majemuk dan koefisien determinasi.
+[3] disamping itu pimpinan sebuah organisasi akan selalu memberikan motivasi dan memperhatikan apa yang menjadi harapan dan keinginan dari pegawainya. dengan motivasi yang tinggi maka diharapkan para pegawai dapat meningkatkan produktivitas kerja di bidang tugasnya masing-masing.
+[3] 1. ada hubungan yang positif antara keadaan sosial ekonomi dengan produktivitas pegawai
+[3] 2. ada hubungan yang positif antara motivasi dengan produktivitas kerja pegawai
+[3] dalam organisasi, baik swasta maupun pemerintah, peranan perilaku pegawai yang baik sangat penting artinya untuk menunjang tercapainya tujuan organisasi tersebut, tanpa adanya perilaku pegawai yang baik, maka tujuan organisasi menjadi sulit untuk dicapai.
+[3] hipotesa yang diajukan adalah sebagai berikut:
+[3] a. ada pengaruh yang positif antara pengawasan dan perilaku pegawai
+[3] b. ada pengaruh yang positif antara kepemimpinan dan perilaku pegawai
+[3] c. ada pengaruh yang positif antara spesialisasi dan perilaku pegawai
+[3] tipe penelitian adalah tipe penelitian penjelasan. adapun sumber datanya adalah sumber data primer dan sumber data sekunder, sedangkan analisa datanya menggunakan analisa data kuantitatif dan analisa data kualitatif.
+[3] 2.hipotesis minor:
+[3] hipotesa dalam penelitian ini adalah ada pengaruh pembinaan pegawai dan pengawasan terhadap prestasi kerja pegawai.
+[3] jurusan ilmu administrasi negara, fakultas ilmu sosial dan ilmu politik,
+[3] ada hubungan yang signifikan antara pengawasan dan motivasi dengan prestasi kerja pegawai.
+[3] seperti diketahui, masalah semangat kerja adalah penting sekali bagi keberlangsungan sebuah organisasi yang memiliki banyak pegawai dengan tugas pokok dan fungsinya yang sangat dibutuhkan oleh bukan saja para pegawainya, akan tetapi oleh warga masyarakat. oleh karena itu untuk lebih meningkatkan pencapaian tujuan yang tercakup dalam tugas dan fungsi organisasi, maka tidak berlebihan jika sebuah organisasi itu selalu berusaha meningkatkan produktivitasnya.
+[3] dalam kaitan inilah skripsi ini berusaha mengungkap permasalahan yang ada, yaitu apakah ada pengaruh antara variabel kepemimpinan dan komunikasi terhadap semangat kerja pegawai, dengan pengajuan hipotesa sebagai berikut:
+[3] ada hubungan antara variabel motivasi dan variabel komunikasi dengan variabel effektifitas kerja pegawai.
+[3] - ada pengaruh signifikan dari variabel kepemimpinan terhadap variabel efektivitas kerja pegawai.
+[3] - ada pengaruh yang signifikan dari variabel motivasi terhadap variabel efektivitas kerja pegawai.
+[3] ada pengaruh signifikan antara kepemimpinan dan kemampuan kerja pegawai terhadap produktivitas kerja pegawai.
+[3] - ada hubungan yang positif antara variabel motivasi dengan variabel komunikasi
+[3] a. ada hubungan yang positif dan signifikan antara variabel pengawasan dengan variabel produktivitas pegawai
+[3] dalam kaitan inilah skripsi ini berusaha mengungkap permasalahan yang ada,
+[3] hasil pengujian hipotesa adalah
+[3] dalam kaitan inilah skripsi ini mencoba mengungkapkan permasalahan
+[3] berawal dari suatu anggapan bahwa belum optimalnya pencapaian tujuan dan sasaran suatu organisasi berkaitan erat dengan kondisi semangat kerja pegawai. memang benar pendapat yang demikian itu. akan tetapi bila melihat kondisi situasi ekonomi yang berkembang dewasa ini khususnya krisis ekonomi yang melanda negara kita, melemahnya kesehatan organisasi seakan menjadi hal yang lumrah terjadi. hal demikian tentu tidak dapat dibiarkan. oleh karena itu muncul berbagai pemikiran untuk bagaimana dapat me
+[3] berikut:
+[3] pembangunan nasional bertujuan untuk mewujudkan suatu masyarakat yang adil dan makmur merata materiil dan spirituil berdasarkan pancasila di dalam wadah negara kesatuan republik indonesia yang merdeka, berdaulat, bersatu dan berkedaulatan rakyat dalam suasana perikehidupan yang aman tenteram, tertib dan dinamis serta dalam lingkungan pergaulan dunia yang merdeka bersahabat, tertib dan damai.
+[3] - ada pengaruh positif antara kepemimpinan terhadap semangat kerja pegawai.
+[3] hipotesa dari penelitian ini adalah:
+[3] jurusan ilmu administrasi negara, fakultas ilmu sosial dan ilmu politik
+[3] , sehingga
+[3] sehingga
+[3] tersebut.
+[3] penelitian eksplorasi dan pengembangan (r&d). model pengembangan yang
+[3] etnomatematika.
+[3] .
+[3] variasi.
+[3] dalam usaha pencapaian tujuan pembangunan nasional tidak bisa lepas dari peranan unsur manusia. dengan adanya peranan dari manusia, maka dapat menentukan keberhasilan dalam pencapaian tujuan, karena itu diperlukan adanya penanganan terhadap kebijakan-kebijakan yang harus diperiksa secara mendalam supaya tidak terjadi kegagalan dalam memadukan antara tenaga kerja dengan kebijaksanaan organisasi.
+[3] dengan demikian prestasi kerja mutlak diperlukan dalam pencapaian tujuan. tanpa adanya prestasi kerja yang baik maka suatu rencana program tidak bisa berjalan dengan baik untuk terwujudnya prestasi kerja yang baik diperlukan adanya semangat kerja yang tinggi dari setiap pegawai.
+[3] dengan melakukan pemilihan pegawai yang lebih selektif, maka diharapkan akan diperoleh pegawai-pegawai yang memiliki perilaku yang baik serta loyal terhadap pimpinan.
+[3] b. ada pengaruh pembagian kerja terhadap produktivitas kerja pegawai.
+[3] c. ada pengaruh koordinasi terhadap produktivitas kerja pegawai.
+[3] sumber data yang dipergunakan adalah sumber data primer dan sumber daya sekunder. untuk mengolah data dengan editing, koding, tabulating. sedangkan untuk mengolah data dengan menggunakan analisa kualitatif dan analisa kuantitatif. selanjutnya untuk menguji hipotesa digunakan rumua statistik korealsi product moment, korelasi partial, korelasi majemuk, korelasi determinasi dan randomizen design. adapun analisa statistik adalah sebagai berikut:
+[3] dibimbing oleh waluyo, s.pi., m.si. dan dr. ir. sri hidayati, m.p.
