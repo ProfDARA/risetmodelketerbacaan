@@ -1,16 +1,16 @@
 ==== BREAK ANALYSIS ====
 
-Rows: 7,621
-Blocks: 43,296
+Rows: 7,620
+Blocks: 43,270
 
-Headers: 3,737
+Headers: 3,736
 Keywords: 3,353
-MetadataPattern: 1,366
-MetadataMatch: 5,786
+MetadataPattern: 1,359
+MetadataMatch: 5,771
 
 ===== TOP 200 BLOCKS =====
 
-[2587] abstrak
+[2586] abstrak
 [1065] tidak tersedia deskripsi
 [558] abstract
 [538] intisari
