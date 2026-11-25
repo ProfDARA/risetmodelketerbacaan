@@ -1,0 +1,6 @@
+﻿# Public release allowlist
+*
+!.gitignore
+!README.md
+!Notebook 1 EDA dan Linguistic Exploration.ipynb
+!Notebook 2 Corpus Analysis.ipynb
